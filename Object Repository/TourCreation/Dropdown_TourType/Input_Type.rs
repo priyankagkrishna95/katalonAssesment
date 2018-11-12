@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Input_Type</name>
+   <tag></tag>
+   <elementGuidId>75408af2-c29b-4ba8-8944-9265133c5ac5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li/div[@class=&quot;select2-result-label&quot;][contains(.,'${type}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li/div[@class=&quot;select2-result-label&quot;][contains(.,'${type}')]</value>
+   </webElementProperties>
+</WebElementEntity>

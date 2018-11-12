@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Exclusions</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>70cde6a5-748d-421d-a0a0-8b6bfe16b6ac</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>+Airfare+%26+airport+taxes</data>
+   <data>+Visa+charges</data>
+   <data>+Insurance</data>
+   <data>+Passport+costs</data>
+   <data>+All+meals+and+drinks</data>
+   <data>+Tips+to+coach+drivers</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Exclude</name>
+      <size>6</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

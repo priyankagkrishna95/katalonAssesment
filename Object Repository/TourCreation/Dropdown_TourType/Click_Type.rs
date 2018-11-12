@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Click_Type</name>
+   <tag></tag>
+   <elementGuidId>932e30c0-f87d-4ea0-b837-455ce90d9816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[text()='Select']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[text()='Select']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[text()='Select']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SelectCountry</name>
+   <tag></tag>
+   <elementGuidId>7292d61d-8a06-4262-ad92-053878333b72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id=&quot;select2-drop&quot;]//ul//li//div[contains(text(),&quot;${country}&quot;)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;select2-drop&quot;]//ul//li//div[contains(text(),&quot;${country}&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>

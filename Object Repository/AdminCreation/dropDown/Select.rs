@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Select</name>
+   <tag></tag>
+   <elementGuidId>a385988c-6979-49bf-a435-771194a1a46d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@class=&quot;select2-input&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;select2-search&quot;]/input[@class=&quot;${dropdownvalue}&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;select2-search&quot;]/input[@class=&quot;${dropdownvalue}&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

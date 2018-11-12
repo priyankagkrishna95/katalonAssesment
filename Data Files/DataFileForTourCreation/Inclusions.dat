@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Inclusions</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b3c83eb2-6a1a-4e05-a209-88e44f350f89</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+   <data>Cab+Facilities</data>
+   <data>Collision+Coverage</data>
+   <data>Golf+Nearby</data>
+   <data>Transportation</data>
+   <data>Cruise</data>
+   <internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Facilities</name>
+      <size>5</size>
+   </internalDataColumns>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

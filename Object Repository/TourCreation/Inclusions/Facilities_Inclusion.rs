@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Facilities_Inclusion</name>
+   <tag></tag>
+   <elementGuidId>e6ada047-85b3-49ee-8609-cfdae6961001</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id=&quot;INCLUSIONS&quot;]//*[contains(text(),&quot;${facility}&quot;)]</value>
+   </webElementProperties>
+</WebElementEntity>
