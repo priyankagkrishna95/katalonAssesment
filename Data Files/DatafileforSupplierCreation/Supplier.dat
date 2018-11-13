@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>ec8eca75-fd33-429e-82ba-2f73d8dabf47</dataFileGUID>
-   <dataSourceUrl>../../Downloads/Katalon Excel.xlsx</dataSourceUrl>
+   <dataSourceUrl>../../../Downloads/Katalon Excel.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>true</isInternalPath>
    <query></query>

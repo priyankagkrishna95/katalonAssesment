@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value>//*[@id=&quot;select2-drop&quot;]//*[text()=&quot;&quot;]</value>
+         <value>//*[@name=&quot;hotels[]&quot;]//*[text()=&quot;Rose Rayhaan Rotana&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;select2-drop&quot;]//*[text()=&quot;Rose Rayhaan Rotana&quot;]</value>
+      <value>//*[@name=&quot;hotels[]&quot;]//*[text()=&quot;Rose Rayhaan Rotana&quot;]</value>
    </webElementProperties>
 </WebElementEntity>

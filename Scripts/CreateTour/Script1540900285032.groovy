@@ -21,7 +21,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.callTestCase(findTestCase('CreateAdmin'), [:], FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.callTestCase(findTestCase('CreateAdmin'), [:], FailureHandling.STOP_ON_FAILURE)
 
 CustomKeywords.'commonUtilities.commonKeywords.login'('www.phptravels.net/admin', 'priyanka@gmail.com', 'priyanka')
 

@@ -66,8 +66,6 @@ WebUI.click(findTestObject('Adding_Supplier/Assign_Tour/Click_Tour'))
 
 WebUI.click(findTestObject('Adding_Supplier/Assign_Tour/Insert_Tour'))
 
-WebUI.click(findTestObject('Adding_Supplier/Assign_Cars/Click_Car'))
-
 WebUI.click(findTestObject('Adding_Supplier/Assign_Cars/Insert_Car'))
 
 def dataForPermission = findTestData('DataforCheckbox/Permission')

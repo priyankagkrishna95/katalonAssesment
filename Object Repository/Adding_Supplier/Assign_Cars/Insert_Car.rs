@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
+         <value>//*[@name=&quot;cars[]&quot;]//*[text()=&quot;Ford Focus 2014&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -17,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id=&quot;select2-drop&quot;]//*[text()=&quot;Ford Focus 2014&quot;]</value>
+      <value>//*[@name=&quot;cars[]&quot;]//*[text()=&quot;Ford Focus 2014&quot;]</value>
    </webElementProperties>
 </WebElementEntity>
